@@ -90,7 +90,7 @@ def get_input():
     
 
 #Funtion search(iteration, position, sequence): Is a function called by get_input().
-#Operation: Given three arguments number of moves, start position and a string
+#Operation: Given three arguments, number of moves, start position and a string
 #(empty at first call) searches, recursivly, for all possible movements that reach the end position
 #**************************************************************************************************
 def search(iteration, position, sequence):
